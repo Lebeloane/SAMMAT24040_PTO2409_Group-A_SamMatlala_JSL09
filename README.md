@@ -1,7 +1,7 @@
 # [JSL09] Submission: Personal Dashboard Chrome Extension
 
 You will:
-1. Use the provided Starter Code Repository: https://github.com/CodeSpace-Academy/Module_09_StudentNo_Classcode_Group_Name-Surname_JSL09
+1. Use the provided Starter Code Repository:https://github.com/Lebeloane/SAMMAT24040_PTO2409_Group-A_SamMatlala_JSL09.git
 2. Code your solution.
 3. Commit changes to your GitHub repository.
 4. Submit the GitHub Repository Link to the LMS [JSL09] Submission Project Tab.
@@ -15,7 +15,7 @@ Note that this background image is dynamically generated so your's will look dif
 
 ## What You Need to Do:
 
-1. Clone the provided Starter Code Repository to your local development environment (e.g., VSCode): https://github.com/CodeSpace-Academy/Module_09_StudentNo_Classcode_Group_Name-Surname_JSL09
+1. Clone the provided Starter Code Repository to your local development environment (e.g., VSCode): https://github.com/Lebeloane/SAMMAT24040_PTO2409_Group-A_SamMatlala_JSL09.git
 2. Open the cloned project in your code editor.
 3. Code your solution for the challenge as per the provided instructions.
 4. If you have coded your Personal Dashboard challenge in Scrimba, you will need to download the zip folder of your project files. Unzip the project files into your JSL09 project repo on GitHub. Make sure to NOT use the Scrimba README. Instead you will keep your starter code README.
